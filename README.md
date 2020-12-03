@@ -11,7 +11,9 @@ These packages must be installed before running the code. Since the package pyco
 Important files: 
 
 report (ex: 2019-calculus-RR03-0499.txt or any other report)
+
 rubric (ex: pendulum_rubric.txt)
+
 If using csv: results.csv (which includes both the report and the score [0-5])
 
 For the language_tool_python, the output leads to a url, which is not required. It shows all the matches or errors in language (ex: spelling mistake) found and reports possible replacements and where the error occured. Might be a bit slow when running the first time.
