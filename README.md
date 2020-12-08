@@ -17,5 +17,3 @@ rubric (ex: pendulum_rubric.txt)
 If using csv: results.csv (which includes both the report and the score [0-5])
 
 For the language_tool_python, the output leads to a url, which is not required. It shows all the matches or errors in language (ex: spelling mistake) found and reports possible replacements and where the error occured. Might be a bit slow when running the first time.
-
-If all the requirements above are met, the function or the features can be tested and the code should run properly.
